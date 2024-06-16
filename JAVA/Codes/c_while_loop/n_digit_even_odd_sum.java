@@ -1,4 +1,4 @@
-package while_loop;
+package c_while_loop;
 import java.util.Scanner;
 
 public class n_digit_even_odd_sum {

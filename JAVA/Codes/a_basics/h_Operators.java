@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 import java.util.*;
 public class h_Operators {
   public static void main(String[] args) {

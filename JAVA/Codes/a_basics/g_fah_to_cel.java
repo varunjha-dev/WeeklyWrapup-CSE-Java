@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 import java.util.*;;
 public class g_fah_to_cel {
   public static void main(String[] args) {

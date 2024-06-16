@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 public class c_Sum_of_numbers {
     public static void main(String[] args) {
         // code to calculate sum

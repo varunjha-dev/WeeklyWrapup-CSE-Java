@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 import java.util.Scanner;
 
 public class e_input_from_user {

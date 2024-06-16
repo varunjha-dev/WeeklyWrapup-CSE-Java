@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 public class d_simpleInterest {
   public static void main(String[] args) {
     int p = 1000;

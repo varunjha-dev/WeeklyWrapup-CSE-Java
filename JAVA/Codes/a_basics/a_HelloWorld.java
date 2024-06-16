@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 public class a_HelloWorld {
     public static void main(String args []) {
         System.out.print("om shree Ganeshayah namah!");

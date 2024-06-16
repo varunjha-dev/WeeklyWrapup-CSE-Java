@@ -1,4 +1,4 @@
-package basics;
+package a_basics;
 public class b_varibles_in_java {
     public static void main(String[] args) {
         int a = 10;
