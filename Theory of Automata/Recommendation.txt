@@ -1,3 +1,0 @@
-Neso Academy taught us well, but I feel that from the point where they cover the equivalence of CFG to PDA,
-the lectures become less user-friendly. Additionally, they skip some topics like two-stack PDA and PDA to CFG. 
-So, I watched the lectures on "THE GATEHUB" YouTube channel. Trust me, if you're comfortable with Hindi, it's a gem.
